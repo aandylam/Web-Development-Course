@@ -3,6 +3,13 @@
 	font-family: Helvetica, sans-serif;
 }
 
+section {
+	background-color: #EFEC89;
+	height: 250px;
+	overflow: auto;
+	border: 1px solid black;
+}
+
 h1 {
 	color: #BA05F9;
 	font-size: 200%;
@@ -17,13 +24,6 @@ h2 {
 	margin-bottom: 16px;
 	float: right;
 	color: black;
-}
-
-section {
-	background-color: #EFEC89;
-	height: 250px;
-	overflow: auto;
-	border: 1px solid black;
 }
 
 ul {
