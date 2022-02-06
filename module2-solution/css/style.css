@@ -11,16 +11,16 @@ h1 {
 
 h2 {
 	border: 1px solid black;
-	color: #D8CEC1;
 	font-size: 130%;
 	padding:  4px 16px 4px 16px;
 	margin-top: 0;
 	margin-bottom: 16px;
 	float: right;
+	color: black;
 }
 
 section {
-	background-color: #EFC1B2;
+	background-color: #EFEC89;
 	height: 250px;
 	overflow: auto;
 	border: 1px solid black;
