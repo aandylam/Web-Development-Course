@@ -16,10 +16,10 @@ p {
 }
 
 .container {
-	border: none;
-	margin-left: auto;
 	margin-right: auto;
 	margin-top: 10px;
+	border: none;
+	margin-left: auto;
 	margin-bottom: 10px;
 	padding: 10px;
 }
@@ -39,10 +39,10 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
+	margin-top: 0;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
-	margin-top: 0;
 	padding: 5px;
 	background-color: #ed4ad2;
 }
@@ -53,10 +53,10 @@ section {
 	width: 30%;
 	margin-left: 70%;
 	font-weight: bold;
+	padding: 5px;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	padding: 5px;
 	background-color: #ed4ad2;
 }
 
@@ -65,28 +65,31 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
+	font-weight: bold;
 	background-color: #ed4ad2;
 	color: black;
 	padding: 5px;
 }
 
 #chicken-div {
-  margin-bottom: 5px;
-  margin-top: 5px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  color: black;
 }
 
 #beef-div {
-  margin-bottom: 5px;
-  margin-top: 5px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  color: black;
 }
 
 #sushi-div {
-  margin-bottom: 5px;
-  margin-top: 5px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  color: black;
 }
 
 .navbar-brand {
