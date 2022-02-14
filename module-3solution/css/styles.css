@@ -92,13 +92,13 @@ section {
 .navbar-brand {
   font-size: 2em;
   border: 0 0 10px 10px;
-  color: #FFFFFF;
+  color: black;
 }
 
 #header-nav {
   border: 0;
   background-color: #7e7c82;
-  color: #FFFFFF;
+  color: black;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
@@ -119,10 +119,10 @@ section {
 }
 
 #nav-list {
-  color: white;
+  color: black;
 }
 
 hr {
-  border-color: white;
+  border-color: black;
 }
 
