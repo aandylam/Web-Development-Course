@@ -10,6 +10,10 @@ body {
 
 }
 
+.item {
+	color: black;
+}
+
 p {
 	padding: 10px;
 	margin: 0;
@@ -95,13 +99,13 @@ section {
   color: black;
 }
 
-.navbar-brand {
+.brand-nav {
   font-size: 2em;
   border: 0 0 10px 10px;
   color: black;
 }
 
-#header-nav {
+#nav-head {
   border: 0;
   background-color: #FFFFF;
   color: black;
@@ -112,7 +116,7 @@ section {
 }
 .navbar-header button.navbar-toggle {
   clear: both;
-  margin-top: -30px;
+  margin-top: -20px;
 }
 
 .nav-header {
@@ -121,7 +125,7 @@ section {
 
 .nav-brand {
   color: #FFFFFF;
-  font-size: 1.5em;
+  font-size: 2em;
 }
 
 #nav-list {
