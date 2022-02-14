@@ -107,7 +107,7 @@ section {
 
 #nav-head {
   border: 0;
-  background-color: #FFFFF;
+  background-color: #black;
   color: black;
 }
 
@@ -124,7 +124,7 @@ section {
 }
 
 .nav-brand {
-  color: #FFFFFF;
+  color: black;
   font-size: 2em;
 }
 
