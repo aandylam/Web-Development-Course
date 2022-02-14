@@ -107,6 +107,11 @@ section {
   color: black;
 }
 
+.nav-brand {
+  color: black;
+  font-size: 2em;
+}
+
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid #61122f;
 }
@@ -117,11 +122,6 @@ section {
 
 .nav-header {
   background-color: #4a9188;
-}
-
-.nav-brand {
-  color: black;
-  font-size: 2em;
 }
 
 #nav-list {
