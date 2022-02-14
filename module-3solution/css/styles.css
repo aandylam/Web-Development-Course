@@ -34,7 +34,7 @@ section {
 	overflow: auto;
 }
 
-#chicken-div {
+#chicken {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
@@ -47,7 +47,7 @@ section {
 	background-color: #5ddae8;
 }
 
-#beef-div {
+#beef {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
@@ -60,7 +60,7 @@ section {
 	background-color: #5ddae8;
 }
 
-#sushi-div {
+#sushi {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
