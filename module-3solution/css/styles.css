@@ -2,11 +2,11 @@
 	box-sizing: border-box;
 }
 h1 {
-	color: #ba37db;
+	color: #ab0a50;
 }
 
 body {
-	background-color: #5a515c;
+	background-color: #e8e11e;
 
 }
 
@@ -101,10 +101,10 @@ section {
   color: #FFFFFF;
 }
 
-.navbar-in-header button.navbar-toggle, .navbar-header .icon-bar {
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid #61122f;
 }
-.navbar-in-header button.navbar-toggle {
+.navbar-header button.navbar-toggle {
   clear: both;
   margin-top: -30px;
 }
