@@ -7,6 +7,6 @@
 
 ### Module 3 Coding Assignment
 - [Assignment Instructions](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md).
-- [Website]
+- [Website](/module3-solution/index.html)
 
 
