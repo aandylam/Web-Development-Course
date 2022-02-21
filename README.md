@@ -10,3 +10,6 @@
 - [Website](/module-3solution/index.html)
 
 
+### Module 4 Coding Assignment
+- [Assignment Instructions](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md).
+- [Website](/module4-solution/index.html)
